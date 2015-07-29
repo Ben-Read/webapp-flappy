@@ -33,10 +33,10 @@ h1 {
     position: absolute;
     left: 40%;
     top: 40%;
-    background: #fff;
+    background: #a6e1ec;
     width: 350px;
     height: 300px;
-    border: 2px solid gray;
+    border: 3px solid #0066bb;
     border-radius: 5px;
     padding: 20px;
     display: none;
