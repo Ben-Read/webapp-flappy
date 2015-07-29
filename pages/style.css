@@ -1,0 +1,43 @@
+h1 {
+    color: cyan;
+    font-size: 20px;
+    font-style: inherit;
+    font-family: monospace;
+}
+
+.gold {
+    color: gold;
+}
+
+.silver {
+    color: silver;
+}
+
+.bronze {
+    color: saddlebrown;
+}
+
+#gameLink {
+    text-align: center;
+}
+
+#score {
+    text-align: center;
+}
+
+#greeting {
+    align-content: center;
+}
+
+#greeting {
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    background: #fff;
+    width: 350px;
+    height: 300px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    display: none;
+}
